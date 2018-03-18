@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: GitHub, Puppet, Powershell DSC, Terraform, Ruby, Testing, Splunk
+percentage: 100, 85, 75, 80, 70, 90, 50

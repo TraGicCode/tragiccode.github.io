@@ -1,0 +1,9 @@
+# carousel banners section
+# Add items for each banner image in the carousel
+#
+# Images are expected to be located in `static/assets/img/`.
+- src: landing/ruby.png
+  title: first banner image
+
+- src: landing/pexels-photo-270360.jpeg
+  title: second banner image
