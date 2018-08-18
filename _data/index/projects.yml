@@ -1,0 +1,29 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: OpenCover
+  i18n: opencover
+  gh_user: OpenCover
+  repo: opencover
+  img: /static/assets/img/landing/open-cover-logo.png
+  desc: I contributed the Change Risk Anti-Patterns ( CRAP Score ) score feature.
+
+# - name: SqlServerDsc
+#   i18n: sqlserverdsc
+#   url: https://google.com
+#   img: /static/assets/img/landing/google.png
+#   desc: This is another project.
+
+- name: SqlServerDsc
+  i18n: sqlserverdsc
+  gh_user: PowerShell
+  repo: SqlServerDsc
+  img: /static/assets/img/landing/powershell-team-logo.png
+  desc: One of many DSC Project i contribute to.
+
+- name: wsusserver
+  i18n: wsusserver
+  gh_user: TraGicCode
+  repo: tragiccode-wsusserver
+  img: /static/assets/img/landing/wsus-windows-logo.png
+  desc: A puppet module to install, configure, and manage wsusserver on windows server.

@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Blinds.com (a Home Depot company)
+    i18n: company_a
+  desc:
+    detail: Implementing Infrastructure as code through Test-Driven Development and Continuous Integration/Deployment/Delivery expertise.
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2017
+    i18n: company_a_date
+  job:
+    detail: Senior WebOps Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Blinds.com (a Home Depot company)
+    i18n: company_b
+  desc:
+    detail: C# Programmer developing ASP.NET MVC Websites, Restful API's, and NService Hosts.
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2014
+    i18n: company_b_date
+  job:
+    detail: Junior Software Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: The Genesis Group
+    i18n: company_c
+  desc:
+    detail: C# Programmer developing ASP.NET MVC Websites, SQL Server, and the Google Maps API.
+    i18n: company_c_desc
+  date:
+    detail: May 2013
+    i18n: company_c_date
+  job:
+    detail: Junior Software Developer
+    i18n: company_c_job
+  icon: fa-plus-square
